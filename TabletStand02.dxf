@@ -1123,7 +1123,7 @@ AcDbViewportTableRecord
  12
 -1447.440000014019
  22
-1036.560000010039
+1036.480000010039
  13
 0
  23
@@ -2319,7 +2319,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-OpenGostTypeA-Regular
+opengosttypea-regular
  70
     0
  40
@@ -2333,7 +2333,7 @@ OpenGostTypeA-Regular
  42
 1
   3
-OpenGostTypeA-Regular
+opengosttypea-regular
   4
 
   0
@@ -9013,53 +9013,7 @@ ByLayer
  62
   256
 370
-   -1
-100
-AcDbMText
- 10
--2996
- 20
-2000
- 30
-0
- 40
-5
- 41
-17.77777671776749
- 71
-    5
- 72
-    1
-  1
-Frog\PStand
-  7
-OpenGostTypeA-Regular
-210
-0
-220
-0
-230
-1
- 50
-45
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-155
-100
-AcDbEntity
-  8
-Text
-  6
-ByLayer
- 62
-  256
-370
-   -1
+  100
 100
 AcDbMText
  10
@@ -9079,7 +9033,7 @@ AcDbMText
   1
 Frog\PStand
   7
-OpenGostTypeA-Regular
+opengosttypea-regular
 210
 0
 220
@@ -9088,6 +9042,52 @@ OpenGostTypeA-Regular
 1
  50
 -45
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+155
+100
+AcDbEntity
+  8
+Text
+  6
+ByLayer
+ 62
+  256
+370
+  100
+100
+AcDbMText
+ 10
+-2996
+ 20
+2000
+ 30
+0
+ 40
+5
+ 41
+17.77777671776749
+ 71
+    5
+ 72
+    1
+  1
+Frog\PStand
+  7
+opengosttypea-regular
+210
+0
+220
+0
+230
+1
+ 50
+45
  73
     2
  44
